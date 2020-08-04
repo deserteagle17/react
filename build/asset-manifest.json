@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deserteagle17/react.git/static/css/main.ab6e9b2c.chunk.css",
+    "main.js": "/deserteagle17/react.git/static/js/main.ef20b33e.chunk.js",
+    "main.js.map": "/deserteagle17/react.git/static/js/main.ef20b33e.chunk.js.map",
+    "runtime-main.js": "/deserteagle17/react.git/static/js/runtime-main.7b12e8d8.js",
+    "runtime-main.js.map": "/deserteagle17/react.git/static/js/runtime-main.7b12e8d8.js.map",
+    "static/css/2.30c2d978.chunk.css": "/deserteagle17/react.git/static/css/2.30c2d978.chunk.css",
+    "static/js/2.d8e78be7.chunk.js": "/deserteagle17/react.git/static/js/2.d8e78be7.chunk.js",
+    "static/js/2.d8e78be7.chunk.js.map": "/deserteagle17/react.git/static/js/2.d8e78be7.chunk.js.map",
+    "index.html": "/deserteagle17/react.git/index.html",
+    "precache-manifest.4f4a8d015c200613714a3f0247e567f9.js": "/deserteagle17/react.git/precache-manifest.4f4a8d015c200613714a3f0247e567f9.js",
+    "service-worker.js": "/deserteagle17/react.git/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/deserteagle17/react.git/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.ab6e9b2c.chunk.css.map": "/deserteagle17/react.git/static/css/main.ab6e9b2c.chunk.css.map",
+    "static/js/2.d8e78be7.chunk.js.LICENSE.txt": "/deserteagle17/react.git/static/js/2.d8e78be7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b12e8d8.js",
+    "static/css/2.30c2d978.chunk.css",
+    "static/js/2.d8e78be7.chunk.js",
+    "static/css/main.ab6e9b2c.chunk.css",
+    "static/js/main.ef20b33e.chunk.js"
+  ]
+}
